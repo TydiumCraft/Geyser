@@ -1,5 +1,3 @@
-This fork will attempt to enable the use of world-specific resource packs. 
-
 <img src="https://geysermc.org/img/geyser-1760-860.png" alt="Geyser" width="600"/>
 
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
